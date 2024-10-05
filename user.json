@@ -4,20 +4,23 @@
   "id": 1234,
   "email": "testuser1@test.com",
   "jobTitle": "BOD",
-  "employeeType": "Contractor"
+  "employeeType": "Contractor",
+  "group": "Test_ent"
   },
   {
   "name": "testuser2",
   "id": 1235,
   "description": "testuser2@test.com",
   "jobTitle": "Team member",
-  "employeeType": "Employee"
+  "employeeType": "Employee",
+  "group": "Test_ent1"
   },
     {
   "name": "testuser3",
-  "id": 1234,
+  "id": 1236,
   "email": "testuser3@test.com",
   "jobTitle": "",
-  "employeeType": "Contractor"
+  "employeeType": "Contractor",
+      "group": "Test_ent2"
   },
 ]
