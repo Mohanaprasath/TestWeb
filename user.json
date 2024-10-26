@@ -19,7 +19,7 @@
   "name": "testuser3",
   "id": 1236,
   "email": "testuser3@test.com",
-  "jobTitle": "",
+  "jobTitle": "a",
   "employeeType": "Contractor",
       "group": "Test_ent2"
   },
