@@ -10,7 +10,7 @@
   {
   "name": "testuser2",
   "id": 1235,
-  "description": "testuser2@test.com",
+  "email": "testuser2@test.com",
   "jobTitle": "Team member",
   "employeeType": "Employee",
   "group": "Test_ent1"
